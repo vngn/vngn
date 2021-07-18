@@ -8,8 +8,7 @@ Et sinon, pourquoi me recruter ?
 
 **1.	Pour commencer**
 
-Pour commencer je suis un passionné : quand j’aime quelque chose, j’y consacre toute mon énergie. Ah, et aussi : j’AIME développer ! 
-Et plus j’aime faire quelque chose, plus je m’applique à le faire bien. Et plus je le fais bien, plus j’aime le faire.  Un beau cercle vertueux !
+Pour commencer je suis un passionné : quand j’aime quelque chose, j’y consacre toute mon énergie. Ah, et aussi : j’AIME développer ! Et plus j’aime faire quelque chose, plus je m’applique à le faire bien. Et plus je le fais bien, plus j’aime le faire.  Un beau cercle vertueux !
 
 Si je baigne dans l’univers informatique depuis toujours, c’est véritablement en 2015 que j’ai abordé sérieusement les métiers du web : 4 ans à organiser et encadrer des formations liées au développement web, à construire des projets de reconversion, à recruter et accompagner des stagiaires, à côtoyer et travailler avec des professionnels du web… et presque autant d’années à réaliser comme j’aimerais en faire également mon métier.
 
