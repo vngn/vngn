@@ -4,7 +4,7 @@ L'essentiel de mon travail se retrouve dans mon projet vitrine (nommé "Site-vit
 
 Et sinon, pourquoi me recruter ?
 
-1.	Pour commencer
+**1.	Pour commencer
 
 Pour commencer je suis un passionné : quand j’aime quelque chose, j’y consacre toute mon énergie. Ah, et aussi : j’AIME développer ! Et plus j’aime faire quelque chose, plus je m’applique à le faire bien. Et plus je le fais bien, plus j’aime le faire.  Un beau cercle vertueux !
 
@@ -12,7 +12,7 @@ Si je baigne dans l’univers informatique depuis toujours, c’est véritableme
 
 Quand mon épouse s’est vue offrir en 2019 une évolution professionnelle très attractive loin de Paris, ici en Loire Atlantique, je ne pouvais faire mieux que d’en profiter pour transformer cela en une opportunité : celle de repenser ma carrière professionnelle et de concrétiser à mon tour ma propre reconversion.
 
-2.	Moi et le développement web
+**2.	Moi et le développement web
 
 Chaque jour depuis maintenant près de 2 ans, je respire du code, je mange du code, je rêve de code... Et sans aucun signe de fatigue ou de lassitude, j‘y prends toujours autant de plaisir, si ce n'est plus en constatant ma régulière progression technique.
 
@@ -26,7 +26,7 @@ Le bilan : de la naissance d’un projet jusqu’à son terme, j’ai savouré a
 
 Mieux encore, j’ai pu mettre mes aptitudes requises pour ce métier à l’épreuve avec succès.
 
-3.	Ce que je sais faire, ce que je peux vous apporter
+**3.	Ce que je sais faire, ce que je peux vous apporter
 
 Je poursuis actuellement (et ce jusqu’au 12 août) une seconde formation de perfectionnement (400 heures) axée principalement sur PHP et le framework Symfony. 
 
@@ -44,7 +44,7 @@ Mes précédentes expériences professionnelles ont affiné ma rigueur, ma const
 
 Vous pouvez donc imaginer le potentiel de mon implication pour enfin accéder à ce métier qui me plaît déjà tant.
 
-4.	En conclusion
+**4.	En conclusion
 
 En conclusion : « Oui, je suis un développeur junior ! », et j'ai aussi une expérience professionnelle conséquente, un savoir-être et des compétences amplement transférables au service d'une volonté extrêmement forte d'exercer ce métier.
 
